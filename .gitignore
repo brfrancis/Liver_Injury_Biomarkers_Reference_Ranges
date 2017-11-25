@@ -1,0 +1,110 @@
+.
+./.git
+./.git/config
+./.git/description
+./.git/HEAD
+./.git/hooks
+./.git/hooks/applypatch-msg.sample
+./.git/hooks/commit-msg.sample
+./.git/hooks/post-update.sample
+./.git/hooks/pre-applypatch.sample
+./.git/hooks/pre-commit.sample
+./.git/hooks/pre-push.sample
+./.git/hooks/pre-rebase.sample
+./.git/hooks/pre-receive.sample
+./.git/hooks/prepare-commit-msg.sample
+./.git/hooks/update.sample
+./.git/index
+./.git/info
+./.git/info/exclude
+./.git/objects
+./.git/objects/11
+./.git/objects/11/f0e1ee6de0302e30c9b0c710c17247c460ebae
+./.git/objects/1c
+./.git/objects/1c/280af2a51dbee9add73aaf1b459e1e7711ec7f
+./.git/objects/8b
+./.git/objects/8b/ef06389394379d003421d05026d8e5455dbbef
+./.git/objects/8d
+./.git/objects/8d/5efd0ea7a8566e95c72809e302f36c57da7686
+./.git/objects/99
+./.git/objects/99/cc6bfef8599aba11bb5166e751136073989181
+./.git/objects/9b
+./.git/objects/9b/11b8c406d05f2417664a5ba807742872438aa6
+./.git/objects/f4
+./.git/objects/f4/509f65882ec74d0e5c10298b5d1948d53e3796
+./.git/objects/info
+./.git/objects/pack
+./.git/refs
+./.git/refs/heads
+./.git/refs/tags
+./.gitignore
+./figure 1.pptx
+./figures.pptx
+./GLDH_Diurnal_Plot.png
+./healthy.csv
+./healthy.docx
+./healthy.md
+./healthy090817.csv
+./healthy090817study1.csv
+./healthy090817study1_2.csv
+./healthy090817study1_2outliers.csv
+./healthy090817study1_2res.csv
+./healthy090817study1_2res.xlsx
+./healthy090817study2.csv
+./healthy090817study2l.csv
+./healthy090817study2s.csv
+./healthy090817study3.csv
+./healthy290817study3_ALT_outliers.csv
+./healthy290817study3_ccK18_outliers.csv
+./healthy290817study3_CSF1_outliers.csv
+./healthy290817study3_FLK18_outliers.csv
+./healthy290817study3_GLDH_outliers.csv
+./healthy290817study3_HMGB1_outliers.csv
+./healthy290817study3_miR122_outliers.csv
+./healthy_results.csv
+./healthy_results.xlsx
+./HV DILI biomarker reference range draft 050917.docx
+./HV DILI biomarker reference range draft 070917.docx
+./HV DILI biomarker reference range draft 101017.docx
+./HV DILI biomarker reference range draft 140817.docx
+./HV DILI biomarker reference range draft 150817_BF.docx
+./HV DILI biomarker reference range draft 190817_BF.docx
+./HV DILI biomarker reference range draft 200817_BF.docx
+./HV DILI biomarker reference range draft.docx
+./HV DILI biomarker reference range draft_BF260817.docx
+./HV DILI biomarker reference range draft_BF260817_ALJ.docx
+./HV DILI biomarker reference range draft_BF300817.docx
+./Liver Injury Biomarker Reference Ranges
+./Liver Injury Biomarker Reference Ranges/.git
+./Liver Injury Biomarker Reference Ranges/.git/config
+./Liver Injury Biomarker Reference Ranges/.git/description
+./Liver Injury Biomarker Reference Ranges/.git/HEAD
+./Liver Injury Biomarker Reference Ranges/.git/hooks
+./Liver Injury Biomarker Reference Ranges/.git/hooks/applypatch-msg.sample
+./Liver Injury Biomarker Reference Ranges/.git/hooks/commit-msg.sample
+./Liver Injury Biomarker Reference Ranges/.git/hooks/post-update.sample
+./Liver Injury Biomarker Reference Ranges/.git/hooks/pre-applypatch.sample
+./Liver Injury Biomarker Reference Ranges/.git/hooks/pre-commit.sample
+./Liver Injury Biomarker Reference Ranges/.git/hooks/pre-push.sample
+./Liver Injury Biomarker Reference Ranges/.git/hooks/pre-rebase.sample
+./Liver Injury Biomarker Reference Ranges/.git/hooks/pre-receive.sample
+./Liver Injury Biomarker Reference Ranges/.git/hooks/prepare-commit-msg.sample
+./Liver Injury Biomarker Reference Ranges/.git/hooks/update.sample
+./Liver Injury Biomarker Reference Ranges/.git/info
+./Liver Injury Biomarker Reference Ranges/.git/info/exclude
+./Liver Injury Biomarker Reference Ranges/.git/objects
+./Liver Injury Biomarker Reference Ranges/.git/objects/info
+./Liver Injury Biomarker Reference Ranges/.git/objects/pack
+./Liver Injury Biomarker Reference Ranges/.git/refs
+./Liver Injury Biomarker Reference Ranges/.git/refs/heads
+./Liver Injury Biomarker Reference Ranges/.git/refs/tags
+./mastersheet HV reference range study1&2.xlsx
+./mastersheet HV reference range study1&2outliers.ods
+./mastersheet HV reference range study3.xlsx
+./mastersheet HV reference range study3outliers.xlsx
+./McWilliam SJ 2014 Biomark Med.pdf
+./Tables.docx
+./Tables050917.docx
+./Tables070917.docx
+./Tables101017.docx
+./~$ DILI biomarker reference range draft_BF300817.docx
